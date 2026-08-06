@@ -13,6 +13,7 @@ Clickeas según los clicks que quieras añadir o tenes atajos de cada botón:
 - +1: 1
 - +10: 2
 - +100: 3
+- Establecer: Enter (Sirve para una vez colocado el número)
 
 ## 🛠️ Herramientas usadas:
 ### Frontend:
