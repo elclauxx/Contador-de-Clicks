@@ -35,7 +35,7 @@ function restar(valor) {
 }
 
 function restablecer() {
-    if (confirm("¿Restablecer el contador?")) {
+    if (confirm("¿Seguro que querés restablecer el contador?")) {
         numero = 0
         actualizarContador()
     }
