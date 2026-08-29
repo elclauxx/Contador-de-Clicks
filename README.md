@@ -28,3 +28,5 @@ Clickeas según los clicks que quieras añadir o tenes atajos de cada botón:
 - El primer README que creé lo hice como si hubiera terminado el proyecto desde el primer commit, cosa que está mal
 - En el proyecto gracias al DRY tuve que aplicar cosas que aun no sabía, le pregunte a la IA y entendí el porque estaba ahí cada linea
 - Entendí para que sirven los argumentos de las funciones
+
+![COUNTER IMAGE](counter.png)
